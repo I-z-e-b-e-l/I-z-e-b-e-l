@@ -2,7 +2,7 @@
 
 💬 Ask me about why you should care about Section 230 and encyption, and if a coding bootcamp is the right path for you.
 
-🌱 I’m currently learning React!
+🌱 I’m currently learning React and C!
 
 🔭 Seeking internship opportunities
 
