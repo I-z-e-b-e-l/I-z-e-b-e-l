@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React and C!
 
-🔭 Seeking internship opportunities
+🔭 Seeking a UI designer to work with on freindlytherapy.info
 
 📫 Email me at izebel@codesquad.org
 
